@@ -1,0 +1,6 @@
+{
+  "name": "Neumorphic UI Studio",
+  "description": "An interactive Neumorphic component design system and reusable UI library synced with Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
